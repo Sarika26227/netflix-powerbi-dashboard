@@ -70,13 +70,15 @@ The dashboard includes the following visuals:
 ---
 
 ## 📌 How to Use
-1. Clone or download this repository.  
-2. Open the Power BI file (`Netflix_Dashboard.pbix`) in Power BI Desktop.  
-3. Explore the interactive visuals and insights.  
+1. Clone or download this repository.
+2. Download the dataset (`netflix_titles (1).csv`)  
+3. Open the Power BI file (`Netflix_Dashboard.pbix`) in Power BI Desktop.  
+4. Explore the interactive visuals and insights.  
 
 ---
 
+
 ## ✨ Author
 👤 **Sarika Verma**  
-📧 *[sarika261028@gmail.com]*  
-🔗 *[www.linkedin.com/in/akasarikaverma]*
+📧 *sarika261028@gmail.com*  
+🔗 *www.linkedin.com/in/akasarikaverma*
